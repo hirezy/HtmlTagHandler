@@ -18,4 +18,4 @@ Android 实现自定义HtmlTagHandler解析器
 【5】 无法支持自定义CSS属性
 
 # HtmlText - 最终效果图
-<img src="https://github.com/hirezy/PathMoveView/blob/main/blob/hls.jpg" controls="controls" width="500" height="300"></img>
+<img src="https://github.com/hirezy/HtmlTagHandler/blob/main/blob/richtext.png" controls="controls" width="800" height="500"></img>
